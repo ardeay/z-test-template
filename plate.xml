@@ -56,7 +56,7 @@
               <items>
                   <item link_title="Home" path_part="zesty_home">
                       <hero_title><![CDATA[Intro Title]]></hero_title>
-                      <hero_subtitle><![CDATA[Large Title zuid[zesty_home] ]]></hero_subtitle>
+                      <hero_subtitle><![CDATA[zuid[zesty_home]]]></hero_subtitle>
                       <hero_button_text><![CDATA[Book Now]]></hero_button_text>
                       <hero_image><![CDATA[https://b303cb5a6ddab7801c2a-56060891ad29dbcef161dcd34aa106bb.ssl.cf2.rackcdn.com/Background-2.jpeg]]></hero_image>
                       <social_section_title><![CDATA[Social Feed Title]]></social_section_title>
